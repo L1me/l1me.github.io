@@ -9,7 +9,7 @@ var config = {
   app_name: 'Coin City',
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
-  recaptcha_sitekey: '6LfI_QUTAAAAACrjjuzmLw0Cjx9uABxb8uguLbph',  // <----- EDIT ME!
+  recaptcha_sitekey: '6Ldv5wwTAAAAAK6LFse95IWxZ3gl63Di5JLrrpa6',  // <----- EDIT ME!
   redirect_uri: 'https://l1me.github.io',
   mp_browser_uri: 'https://www.moneypot.com',
   mp_api_uri: 'https://api.moneypot.com',
